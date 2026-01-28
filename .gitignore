@@ -1,0 +1,9 @@
+cd /c/Users/CompuTop/Desktop/repos/valentine
+cat > .gitignore << 'EOF'
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+EOF
